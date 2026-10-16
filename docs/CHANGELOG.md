@@ -5,6 +5,7 @@ Changelog
 ------------------
 - Fix: Refined media form handling
 - Fix #181: Soft-deleted galleries are no longer accessible via direct URL and now return 404
+- Enh: Automated code refactoring for HumHub 1.18 using Rector
 
 1.7.1 (May 6, 2026)
 -------------------
